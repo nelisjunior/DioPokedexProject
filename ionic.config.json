@@ -1,0 +1,7 @@
+{
+  "name": "DioPokedexProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
